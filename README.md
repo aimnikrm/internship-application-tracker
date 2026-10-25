@@ -80,4 +80,4 @@ Free to use and modify for personal use.
 
 ---
 
-Made by Noraiman. Feedback and suggestions are welcome!
+Made by Noraiman Ikram. Feedback and suggestions are welcome!
